@@ -7,7 +7,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+Funval
 
+Examen
+
+Niver Copa
+
+Juan Carlos Pérez Martínez
+
+
+Desarrolla un pequeño modulo de administración de usuarios utilizando Laravel. 
+Sigue los pasos a continuación:
+1.	Crea un nuevo proyecto de Laravel llamado "AdminUsuarios".
+2.	Crea un modelo llamado "Usuario" que tenga los siguientes campos: nombre, apellido, correo electrónico y fecha de registro y sus timestamp.
+3.	Crea una migración para la tabla de usuarios.
+4.	Ejecuta la migración para crear la tabla en la base de datos 
+5.	Es necesario añadir 100 usuarios como datos de prueba.
+6.	Crea el controlador con todos los metodos CRUD
+7.	El método index muestra todos los usuarios
+8.	El método show del controlador, recibe el ID de un usuario y que muestra sus detalles
+9.	El método store del controlador, para crear usuarios
+10.	 El método update del controlador para actualizar,
+11.	 El método delete, para eliminar usuarios
+
+12.	Crea las rutas, necesarias para todos los métodos.
+Recuerda que puedes utilizar los comandos de Artisan y las convenciones de Laravel para facilitar el desarrollo. Una vez que hayas completado los pasos, sube tu proyecto a GitHub y proporciona el enlace para su revisión.
+¡Buena suerte!
+
+
+ 
+    
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
